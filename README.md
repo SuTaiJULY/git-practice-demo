@@ -2,4 +2,4 @@
 A demo for practicing Git branching and PR workflow
 
 ## Usage
-This project provides only greeting. (Updated)
+This project provides a simple greeting function and date utilities. (Updated)
